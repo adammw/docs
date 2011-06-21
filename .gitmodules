@@ -22,3 +22,6 @@
 [submodule "public/js/libs/weld"]
 	path = public/js/libs/weld
 	url = https://github.com/hij1nx/weld.git
+[submodule "public/js/libs/underscore"]
+	path = public/js/libs/underscore
+	url = https://github.com/documentcloud/underscore.git
