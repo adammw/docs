@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "version": "",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "contributers": [],
+  "licenses": [],
+  "repositories": [{
+      "type": "git",
+      "url": "git@github.com:nodejitsu/nodedocs.org.git" 
+  }],
+  "dependencies": {
+    "dnode": "*"
+  },
+  "devDependencies": {},
+  "engines": [],
+  "main": "./lib/server.js"
+}
