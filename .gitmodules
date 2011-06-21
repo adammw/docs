@@ -1,0 +1,18 @@
+[submodule "public/js/libs/event-emitter-2"]
+	path = public/js/libs/event-emitter-2
+	url = git@github.com:hij1nx/EventEmitter2.git
+[submodule "public/js/libs/micro-extendable"]
+	path = public/js/libs/micro-extendable
+	url = git@github.com:jvduf/micro-extendable.git
+[submodule "public/js/libs/micro-controller"]
+	path = public/js/libs/micro-controller
+	url = git@github.com:jvduf/micro-controller.git
+[submodule "public/js/libs/micro-collection"]
+	path = public/js/libs/micro-collection
+	url = git@github.com:jvduf/micro-collection.git
+[submodule "public/js/libs/micro-model"]
+	path = public/js/libs/micro-model
+	url = git@github.com:jvduf/micro-model.git
+[submodule "public/js/libs/micro-view"]
+	path = public/js/libs/micro-view
+	url = git@github.com:jvduf/micro-view.git
